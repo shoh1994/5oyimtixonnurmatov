@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.shoh11{
+    width: 400px;
+    height: 450px;
+    background-color:#F8F9FA;
+
+
+}
+
+.shoh11 img{
+    width: 350px;
+    height: 300px;
+}
